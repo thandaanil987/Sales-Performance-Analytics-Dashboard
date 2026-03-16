@@ -59,15 +59,10 @@ This dashboard answers several **key business questions**, including:
 ✔ **Custom DAX measures for revenue, profit, and trends**
 
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 
-
-```markdown
-![Dashboard Preview](dashboard.png)
-```
-
----
+<img src="dashboard.png" width="900">
 
 ## 🎯 Project Objective
 
